@@ -27,5 +27,5 @@ A media-rich interactive gallery showcasing operational web applications, custom
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [Link your LinkedIn Profile](https://www.linkedin.com/in/monica-shyam-buragadda-ba66b6185/)
+* **LinkedIn:** [Monica Shyam Buragadda](https://www.linkedin.com/in/monica-shyam-buragadda-ba66b6185/)
 * **Email:** `monica.buragadda@gmail.com`
