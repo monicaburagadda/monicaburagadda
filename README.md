@@ -6,7 +6,7 @@ Currently, I specialize in designing end-to-end architectures—from data ingest
 
 ---
 
-## 🚀 Featured Production Portfolio Pieces
+## 🚀 ## 🏗️ Enterprise GIS Solutions & Implementations
 
 ### 🌐 [Enterprise Web GIS Solution Portfolio Showcase](https://github.com/monicaburagadda/webgis-portfolio-showcase)
 An immersive, interactive gallery exhibiting production-ready cloud solutions built to support critical national planning operations. Features a multi-tiered architecture including dynamic map books, hosted metadata structures, and advanced user dashboards.
