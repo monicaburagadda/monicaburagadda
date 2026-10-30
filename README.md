@@ -1,8 +1,20 @@
 # Hi there, I'm Monica Shyam Buragadda 👋 | Senior GIS Consultant
 
-I am an enterprise geospatial professional with 10+ years of experience delivering mission-critical GIS applications, cloud-hosted services, and data automation pipelines across the planning, regulatory, and utility sectors in Ireland. 
 
-Currently, I specialize in designing end-to-end architectures—from data ingestion through Microsoft Azure public cloud infrastructure to building self-serve interactive applications for cross-functional teams.
+
+## 📋 Executive Overview
+
+I am a results-driven **Senior GIS Consultant with over 10 years of experience** designing, deploying, and administering enterprise geospatial solutions across the regulatory planning and utility sectors in Ireland. My expertise spans the entire project lifecycle—from gathering cross-functional stakeholder requirements and managing, deploying interactive, self-serve applications for internal and public users.
+
+* **An Coimisiún Pleanála (Current):** 
+  * **Architecting and deploying a suite of bespoke, self-serve Experience Builder applications** from the ground up to streamline cross-functional planning workflows.
+  * **Eliminating manual overhead by engineering automated, multi-sheet cartographic Map Series workflows** for critical regulatory and planning documentation.
+  * **Spearheading a high-visibility Web GIS Proof of Concept (POC)** to visualize, filter, and analyze offshore windfarm and renewable energy planning assessments.
+* **ESB Networks (2018–2025):** 
+  * **Executed high-fidelity digitisation, rigorous quality control, and asset validation** for the live national high, medium, and low voltage electrical network across all counties in Ireland, directly safeguarding the data integrity of the real-time Outage Management System (OMS).
+* **Academic Excellence:** 
+  * Graduated **Top of Year (Grade: 82%)** with an M.Tech in Spatial Information Technology, focusing on digital photogrammetry and advanced 3D surface modeling.
+
 
 ---
 
