@@ -6,7 +6,7 @@ Currently, I specialize in designing end-to-end architectures—from data ingest
 
 ---
 
-## 🚀 ## 🏗️ Enterprise GIS Solutions & Implementations
+## 🏗️ Enterprise GIS Solutions & Implementations
 
 ### 🌐 [Enterprise Web GIS Solution Portfolio Showcase](https://github.com/monicaburagadda/webgis-portfolio-showcase)
 An immersive, interactive gallery exhibiting production-ready cloud solutions built to support critical national planning operations. Features a multi-tiered architecture including dynamic map books, hosted metadata structures, and advanced user dashboards.
@@ -26,7 +26,7 @@ An automated ArcGIS Python Toolbox (`.pyt`) built to enforce data integrity metr
 
 ---
 
-## 🧰 Technical Skillset Matrix
+## 🧰 Technical Skillset
 
 * **Spatial Engineering & Cartography:** ArcGIS Pro, Advanced Symbology, Map Series Automation, Spatial/Non-Spatial ETL, Remote Sensing Interpretation.
 * **Enterprise Web GIS & Cloud Architecture:** ArcGIS Enterprise (Portal/Server), ArcGIS Online Administration, Hosted Feature Layer Performance Optimization, Microsoft Azure Deployments.
