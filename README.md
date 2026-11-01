@@ -8,12 +8,12 @@ I am a results-driven **Senior GIS Consultant with over 10 years of experience**
 
 * **An Coimisiún Pleanála (Current):** 
   * **Architecting and deploying a suite of bespoke, self-serve Experience Builder applications** from the ground up to streamline cross-functional planning workflows.
-  * **Eliminating manual overhead by engineering automated, multi-sheet cartographic Map Series workflows** for critical regulatory and planning documentation.
+  * **Automated cartography workflows** for planning and regulatory documents, eliminating manual overhead..
   * **Spearheading a high-visibility Web GIS Proof of Concept (POC)** to visualize, filter, and analyze offshore windfarm and renewable energy planning assessments.
 * **ESB Networks (2018–2025):** 
   * **Executed high-fidelity digitisation, rigorous quality control, and asset validation** for the live national high, medium, and low voltage electrical network across all counties in Ireland, directly safeguarding the data integrity of the real-time Outage Management System (OMS).
 * **Academic Excellence:** 
-  * Graduated **Top of Year (Grade: 82%)** with an M.Tech in Spatial Information Technology, focusing on digital photogrammetry and advanced 3D surface modeling.
+  * Graduated **Top of Year (Grade: 82%)** with an M.Tech in Spatial Information Technology, focusing on Image processing, remote sensing, digital photogrammetry and advanced 3D surface modeling.
 
 
 ---
